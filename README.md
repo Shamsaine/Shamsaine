@@ -20,7 +20,7 @@ Also exploring more opportunities to showcase my skills in a formidable environm
 https://t.co/6Zp4NStFky
 @shamsaine
 in/shamsudeen-ibrahim-629b261b5
-https://www.upwork.com/freelancers/~01287b26d4d87a6a96
+
 <!--
 **Shamsaine/Shamsaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
