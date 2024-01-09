@@ -1,6 +1,6 @@
-** # Hi there I'm Shamsudeen Ibrahim👋 **
+**# Hi there I'm Shamsudeen Ibrahim👋 **
 
-** Data Analyst | Data Scientist | Software Engineer (in the Making ☺) **
+**Data Analyst | Data Scientist | Software Engineer (in the Making ☺)**
 
 I am an aspiring problem solver. I know it sounds crazy but ive always wanted to be a solution provider (A jack of all trade if you would call it that). I thought it was just a fantasy until i got into technology and realise the unlimited potential and opportunities available to me and a path it provided me to make  my dream come true. And so my journey began. In a space of three years i was able to dabble and gain knowledge in the in various filed from Data analysis to data science, machine learning and Artificial intelligence, Backend web development, and currently software engineering. In the course of my journey i have gained skills in Html, CSS, Python, R, SQL and currently C programming language and JavaScript and how to apply these skills to solve problems in the fields ive mentioned. ive also being able to familiarize my self with tools such as Excel, MySQL and other database management tools, visulalisation tools such as tableau and PowerBI, and machine learning tools like pandas Numpy Scikitlearn and a host of others too.
 this mindset forced me to build my critical thinking and analytic thinking which had lead to my evolution into a goal oriente
