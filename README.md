@@ -8,10 +8,16 @@ I am an aspiring problem solver. I know it sounds crazy but ive always wanted to
 I’m currently working on some personal projects for my portfolio to practice and sharpen my skills and also to document my journey so far, learning C programming with @ALX_AFRICA and sharpening my skills in Data science and machine learning with WorldQuant University. 
 Also exploring more opportunities to showcase my skills in a formidable environment through project collaborations, internship, jobs or simply just connecting and sharing ideas that would facilitate our growth and development.
 
-💬 <u>Ask me about ...</u>
-- 📫 You can contact me through shamsain3@gmail.com or my X account @shamsaine
+📫 You can contact me through shamsain3@gmail.com
 
-⚡ Fun fact: not much of a fun fact 😂 just additional information. i am a biochemist and i am currently doing my Msc program in the field of nutrition and my aspiration is to bridge the gap and tranfer my skill between various field to increase my versatility and resourcefulness. 
+⚡ Fun fact: not much of a fun fact 😂 just additional information. i am a biochemist and i am currently doing my Msc program in the field of nutrition and my aspiration is to bridge the gap and tranfer my skill between various field to increase my versatility and resourcefulness.
+
+## Skill
+
+
+
+## Social
+
 <!--
 **Shamsaine/Shamsaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
