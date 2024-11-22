@@ -52,7 +52,7 @@ I am a **Data Scientist**, **Data Analyst**, and a **Software Engineer** in the 
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&include_all_commits=true&hide=languages)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamsaine&show_icons=true&theme=radical&include_all_commits=true&hide=languages)
 
 ### 🔥 Streak Stats:
 ![Shamsaine's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamsaine&theme=radical)
