@@ -2,38 +2,68 @@
 
 # __Hi there I'm Shamsudeen Ibrahim👋__
 
-# __Data Analyst | Data Scientist | Software Engineer (in the Making ☺)__
+# Hi there, I'm Shamsudeen Ibrahim 👋
 
-I am an aspiring problem solver. I know it sounds crazy but ive always wanted to be a solution provider (A jack of all trade if you would call it that). I thought it was just a fantasy until i got into technology and realise the unlimited potential and opportunities available to me and a path it provided me to make  my dream come true. And so my journey began. In a space of three years i was able to dabble and gain knowledge in the in various filed from Data analysis to data science, machine learning and Artificial intelligence, Backend web development, and currently software engineering. In the course of my journey i have gained skills in Html, CSS, Python, R, SQL and currently C programming language and JavaScript and how to apply these skills to solve problems in the fields ive mentioned. ive also being able to familiarize my self with tools such as Excel, MySQL and other database management tools, visulalisation tools such as tableau and PowerBI, and machine learning tools like pandas Numpy Scikitlearn and a host of others too. 
+I am a **Data Scientist**, **Data Analyst**, and an aspiring **Software Engineer**. A passionate lifelong learner, I thrive on solving complex problems and exploring the vast opportunities within technology.
 
+---
 
-I’m currently working on some personal projects for my portfolio to practice and sharpen my skills and also to document my journey so far, learning C programming with @ALX_AFRICA and sharpening my skills in Data science and machine learning with WorldQuant University. 
-Also exploring more opportunities to showcase my skills in a formidable environment through project collaborations, internship, jobs or simply just connecting and sharing ideas that would facilitate our growth and development.
+### 🌟 About Me:
+- 🔭 Currently working on personal projects for my portfolio.
+- 🌱 Sharpening my skills in **Softwware Engineering**, **Data Science**, and **Machine Learning**.
+- 🎓 Learning with **ALX Africa** and **WorldQuant University**.
+- 🤝 Open to collaborations, internships, and opportunities to connect with like-minded individuals.
+- ⚡ Fun Fact: I’m a biochemist pursuing an MSc in Nutrition, aspiring to bridge the gap between diverse fields and enhance versatility.
 
-📫 You can contact me through shamsain3@gmail.com
+---
 
-⚡ Fun fact: not much of a fun fact 😂 just additional information. i am a biochemist and i am currently doing my Msc program in the field of nutrition and my aspiration is to bridge the gap and tranfer my skill between various field to increase my versatility and resourcefulness.
+### 🚀 Skills & Tools:
+#### Programming Languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-## Skill
+#### Tools & Frameworks:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+---
 
+### 📊 GitHub Stats:
+![Shamsaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamsaine&show_icons=true&theme=radical)
 
-## Social
-https://t.co/6Zp4NStFky
-@shamsaine
-in/shamsudeen-ibrahim-629b261b5
+### 🔥 Streak Stats:
+![Shamsaine's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamsaine&theme=radical)
 
-<!--
-**Shamsaine/Shamsaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 Achievements:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shamsaine&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-my passion for problem solving and love of versatility has lead me to pick up many skills and develop interest in alot of areas. this coupled with my curiosity and love for growth is what has kept me going and has brought me this far in the technological space even though i started my journey just three years ago i have been able to ganer certifications in various field and still working to upskill and gain more specialization and increase my versatility and range. i dont want to be kept in a box limited by my skills or be outside the box detached from the space i love so much i want to be the box.  
+---
 
-- 🔭 I’m currently working on some personal projects for my portfolio to practice and sharpen my skills and also to document my journey so far.
-- 🌱 I’m currently learning C programming with @ALX_AFRICA and Data science with WorldQuant University
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with jobs collaborations or internship roles i want to test skills in a formidable environment and also collaborate and learn from professional in my various fields of interest
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: not much of a fun fact 😂 just additional information. i am a biochemist and i am currently doing my Msc program in the field of nutrition and my aspiration is to bridge the gap and tranfer my skill between various field to increase my versatility and resourcefulness. 
+### 🌐 My Favorite Projects:
+- [**ALX Backend Specialization**](https://github.com/Shamsaine/alx-backend): Hands-on learning for backend technologies.
+- [**My Personal Project**](https://github.com/Shamsaine/My_personal_project): Exploring and applying knowledge in real-world scenarios.
+- [**ALX System Engineering DevOps**](https://github.com/Shamsaine/alx-system_engineering-devops): Shell scripting and DevOps fundamentals.
+
+---
+
+### 📫 How to Reach Me:
+- [Email](mailto:shamsain3@gmail.com)
+- [LinkedIn](https://linkedin.com/in/shamsudeen-ibrahim-629b261b5)
+- [Kaggle](https://www.kaggle.com/shamsudeenibrahim)
+- [Twitter](https://twitter.com/shamsaine)
+
+---
+
+### 🧮 Profile Views Counter:
+![Profile Views](https://komarev.com/ghpvc/?username=Shamsaine&color=blue)
+
+---
+
 -->
