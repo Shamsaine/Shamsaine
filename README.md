@@ -1,85 +1,74 @@
-# __Hi there I'm Shamsudeen Ibrahim👋__
+# 👋 Hi there, I'm Shamsudeen Ibrahim
 
-I am a **Data Scientist**, **Data Analyst**, and a **Software Engineer** in the making, dedicated to bridging the gap between diverse fields. With a strong passion for lifelong learning, I leverage technology to tackle complex problems, drive innovation across disciplines, and uncover opportunities for growth and collaboration. Join me as I explore and contribute to the ever-evolving world of technology!
+I’m a **full‑stack developer and cybersecurity enthusiast** with growing experience across **cloud infrastructure, DevOps, Solidity/Web3 development, and security operations**. I enjoy building systems end‑to‑end—from application logic to deployment and security—and I’m driven by curiosity, continuous learning, and problem‑solving in complex technical environments.
 
----
-
-### 🌟 About Me:
-- 🔭 Currently working on personal projects for my portfolio.
-- 🌱 Sharpening my skills in **Softwware Engineering**, **Data Science**, and **Machine Learning**.
-- 🎓 Learning with **ALX Africa** and **WorldQuant University**.
-- 🤝 Open to collaborations, internships, and opportunities to connect with like-minded individuals.
-- ⚡ Fun Fact: I’m a biochemist pursuing an MSc in Nutrition, aspiring to bridge the gap between diverse fields and enhance versatility.
+I’m focused on developing secure, scalable applications while deepening my expertise in cloud platforms, automation, and defensive security practices.
 
 ---
 
-### 🚀 Skills & Tools:
-#### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### 🌟 About Me
 
-### 🚀 Tools & Technologies:
-#### Backend and Frontend Frameworks:
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-#### Databases & Analytics:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-#### Building & Deployment:
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-#### Data Manipulation & Visualization:
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+* 🔭 Currently building personal and collaborative projects across full‑stack development, cloud, and security
+* 🌱 Actively sharpening my skills in **Full‑Stack Development, Solidity/Web3, Cloud & DevOps, and Cybersecurity**
+* 🎓 Trained through **ALX Africa**, **HNG**, **Cyblack** and other intensive hands‑on programs
+* 🤝 Open to collaborations, internships, and roles in Development, cloud, DevOps, and cybersecurity
+* ⚡ Background in **Biochemistry** and currently pursuing an **MSc in Nutrition**, bringing a strong analytical mindset into tech
 
 ---
 
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamsaine&show_icons=true&theme=radical&include_all_commits=true&hide=languages)
+### 🚀 Skills & Technologies
 
-### 🔥 Streak Stats:
-![Shamsaine's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamsaine&theme=radical)
+#### Programming & Scripting
 
-### 🏆 Achievements:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shamsaine&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🌐 My Favorite Projects:
-- [**ALX Backend Specialization**](https://github.com/Shamsaine/alx-backend): Hands-on learning for backend technologies.
-- [**My Personal Project**](https://github.com/Shamsaine/My_personal_project): Exploring and applying knowledge in real-world scenarios.
-- [**ALX System Engineering DevOps**](https://github.com/Shamsaine/alx-system_engineering-devops): Shell scripting and DevOps fundamentals.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square\&logo=solidity\&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square\&logo=gnu-bash\&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square\&logo=c\&logoColor=white)
 
 ---
 
-### 📫 How to Reach Me:
-- [Email](mailto:shamsain3@gmail.com)
-- [LinkedIn](https://linkedin.com/in/shamsudeen-ibrahim-629b261b5)
-- [Kaggle](https://www.kaggle.com/shamsudeenibrahim)
-- [Twitter](https://twitter.com/shamsaine)
+#### Frontend & Backend Development
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 
 ---
 
-### 🧮 Profile Views Counter:
-![Profile Views](https://komarev.com/ghpvc/?username=Shamsaine&color=blue)
+#### Cloud, DevOps & Infrastructure
+
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square\&logo=amazon-aws\&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
 
 ---
 
--->
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+---
+
+#### Cybersecurity & Operations
+
+* SOC fundamentals and alert triage
+* Log analysis and incident response basics
+* SIEM concepts and security monitoring
+* Linux systems and networking fundamentals
+* Secure cloud and infrastructure practices
+
+---
+
+### 📫 Let’s Connect
+
+* 📧 Email: [shamsain3@gmail.com](mailto:shamsain3@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/shamsudeen-ibrahim-629b261b5](https://linkedin.com/in/shamsudeen-ibrahim-629b261b5)
+* 🐦 Twitter/X: [https://twitter.com/shamsaine](https://twitter.com/shamsaine)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shamsaine\&color=blue)
