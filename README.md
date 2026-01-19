@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shamsudeen Ibrahim
 
-I’m a **full‑stack developer and cybersecurity enthusiast** with growing experience across **cloud infrastructure, DevOps, Solidity/Web3 development, and security operations**. I enjoy building systems end‑to‑end—from application logic to deployment and security—and I’m driven by curiosity, continuous learning, and problem‑solving in complex technical environments.
+I’m a **full‑stack developer and cybersecurity enthusiast** with growing experience across **cloud infrastructure, DevOps, Solidity/Web3 development, and security operations**. I enjoy building systems end‑to‑end, from application logic to deployment and security and I’m driven by curiosity, continuous learning, and problem‑solving in complex technical environments.
 
 I’m focused on developing secure, scalable applications while deepening my expertise in cloud platforms, automation, and defensive security practices.
 
